@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "levansang_2121110373_wd", "levansang_2121110373_wd\levansang_2121110373_wd.csproj", "{C5E1D04B-53F2-4E35-B8C3-E6EF9DF5EEF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanlysinhvien", "quanlysinhvien\quanlysinhvien.csproj", "{9B723B59-8655-433C-9BBD-A61FFA951E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E1D04B-53F2-4E35-B8C3-E6EF9DF5EEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E1D04B-53F2-4E35-B8C3-E6EF9DF5EEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E1D04B-53F2-4E35-B8C3-E6EF9DF5EEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E1D04B-53F2-4E35-B8C3-E6EF9DF5EEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B723B59-8655-433C-9BBD-A61FFA951E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B723B59-8655-433C-9BBD-A61FFA951E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B723B59-8655-433C-9BBD-A61FFA951E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B723B59-8655-433C-9BBD-A61FFA951E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A409E23-C5CD-444A-BACF-C578D1303CFC}
+	EndGlobalSection
+EndGlobal
